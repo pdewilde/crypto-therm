@@ -8,7 +8,7 @@ lcd.clear()
 # 0000000000000000
 # CUR: 70F | State
 # SET: 72F |   ON    # or OFF
-def getTempAndStatusStr(curTemp: float, setTemp: float, unit: str, status: str) -> string:
+def getTempAndStatusStr(curTemp: float, setTemp: float, unit: str, status: str) -> str:
     return "CUR:{:3.0f}{:1} | StateSET:{:3.0f}{:1} |{:>6}".format(curTemp, unit, setTemp, unit, status)
 
 GPIO.cleanup()
