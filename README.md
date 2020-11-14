@@ -38,3 +38,24 @@ Diagram: https://www.circuitbasics.com/wp-content/uploads/2015/04/Raspberry-Pi-L
 | K   | GND                               |
 
 
+### FAQ
+
+Q: Why is your Python code so strangely formatted?
+
+A: I'm primarily a Java developer. For me, my variable/method/ect naming schemes make more sense due to that background.
+I am aware of the Python community's opinions around formatting, but I disagree
+that naming conventions should be determined by the language implementers, but instead
+believe that the best naming convention is that which the developers of a project like.
+
+Q: Why two space indents?
+
+A: If I am using a simple text editor, its much easier, especially when you have multiple levels of indentation.
+
+Q: Isn't cryptomining terrible for the environment?
+
+A: Yes. I am not a promoter of cryptocurrency. I think its an incredibly inefficient way to transfer money
+and is an environmental disaster. My aparptment has resistive electric heat. The energy when cryptomining
+eventually will turn into waste heat. Therefore no more electricity is used if I mine crypto currency.
+ The goal of this project is to have something useful come out of the process of heating my aparptment.
+ Cryptocurrency is nice because its easiy to quanitfy a % savings. But something like folding@home is equally valid.
+ 
